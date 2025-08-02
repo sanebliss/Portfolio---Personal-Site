@@ -1,2 +1,2 @@
 # Portfolio---Personal-Site
-Using only HTML and CSS.
+Using only HTML and Internal CSS.
